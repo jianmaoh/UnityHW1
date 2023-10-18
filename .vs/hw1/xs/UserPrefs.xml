@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2853C746-4039-6B57-3833-6C263FE920E7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/TrapsController.cs">
+    <Files>
+      <File FileName="Assets/script/ItemCollector.cs" Line="19" Column="15" />
+      <File FileName="Assets/script/PlayerLife.cs" />
+      <File FileName="Assets/script/PlayerMovement.cs" />
+      <File FileName="Assets/script/TrapsController.cs" Line="44" Column="1" />
+      <File FileName="Assets/script/Timer.cs" />
+      <File FileName="Assets/script/Finish.cs" Line="21" Column="1" />
+      <File FileName="Assets/script/Finish1.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hw1" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="script" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5b213337-5fe0-414b-ab1d-363c286282bd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
